@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atchenbu.github.io/sitemap.atchenbu.gz
+Sitemap: https://atchenbu.github.io/app/sitemap.atchenbu.gz
+Sitemap: https://atchenbu.github.io/assets/sitemap.atchenbu.gz
+Sitemap: https://atchenbu.github.io/css/sitemap.atchenbu.gz
+Sitemap: https://atchenbu.github.io/data/sitemap.atchenbu.gz
+Sitemap: https://atchenbu.github.io/includes/sitemap.atchenbu.gz
+Sitemap: https://atchenbu.github.io/item/sitemap.atchenbu.gz
+Sitemap: https://atchenbu.github.io/src/sitemap.atchenbu.gz
